@@ -39,3 +39,5 @@ Je suis un ingénieur logiciel FullStack passionné par la création de solution
 
 - 📧 &nbsp; dacunhamario@outlook.com
 
+### Notion Page
+ - [Useful Softawre for Devs](https://itsemi.notion.site/Useful-website-software-for-dev-381bd435304647a180bbfcc3a22eb089)
