@@ -35,10 +35,9 @@ Mon expérience couvre le développement, la gestion d’équipe, la formation, 
 - **Freelance – Développeur Full-Stack** *(2021 - présent)*  
   - **Création de l’application web PadKay** ([padkay.ca](https://padkay.ca)) :  
     - **Front-End** : React + Next.js  
-    - **Back-End** : Express.js  
-    - **Base de données** : MongoDB  
-    - **CI/CD** : Docker  
-    - Licence MIT, disponible sur GitHub  
+    - **Back-End** : Supabase  
+    - **Base de données** : PostgreSQL  
+    - **CI/CD** : Docker
   - Création d’un e-commerce Shopify pour Boutikdac  
   - Développement d’une API d’interconnexion entre eBay et Shopify  
   - Scripts d’automatisation et de webscraping  
